@@ -22,6 +22,15 @@ public class WebTable {
 			WebElement webElement = findElements.get(i);
 			String text = webElement.getText();
 			System.out.println(text);
+			System.out.println(text);
+			System.out.println(text);
+			System.out.println(text);
+			System.out.println(text);
+			System.out.println(text);
+			System.out.println(text);
+			System.out.println(text);
+			System.out.println(text);
+			
 		}
 		
 	}
